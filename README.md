@@ -1,4 +1,4 @@
-# Hi 👋, I'm Raj Karki
+# Hi 👋, I'm Unique Raj Karki
 
 🎓 Bachelor of Information Technology (BIT) student  
 💻 Aspiring Web Developer | Python & Machine Learning Enthusiast  
@@ -13,12 +13,6 @@
 - Goal: become industry-ready with strong fundamentals and a solid portfolio
 
 ---
-
-## 🛠️ Tech Stack
-**Languages & Tools**
-- HTML5, CSS3, JavaScript  
-- Python  
-- Git & GitHub  
 
 **Currently Learning**
 - Front-End Development (projects + layouts)
