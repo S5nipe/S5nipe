@@ -29,6 +29,7 @@
 ## 📫 Connect With Me
 - GitHub: https://github.com/S5nipe
 - LinkedIn: https://www.linkedin.com/in/unique-raj-kark
+- Instafram: https://www.instagram.com/unique_karki/
 
 ---
 
